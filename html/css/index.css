@@ -11,3 +11,17 @@ header {
     font-size: 35px;
     color: white;
 }
+
+nav {
+
+    background-color: saddlebrown;
+
+}
+
+section {
+    background-color: limegreen;
+}
+
+main {
+    background-color:orangered;
+}
