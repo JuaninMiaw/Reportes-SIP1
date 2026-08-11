@@ -1,4 +1,4 @@
-        Hola grupo, les dejo un par de instrucciones a la hora de manejar el proyecto.
+<h1>Hola grupo, les dejo un par de instrucciones a la hora de manejar el proyecto.</h1>
 
 1.- CLONAR EL REPO CON GIT BASH ANTES DE EMPEZAR: Al iniciar gitbash, les recomiendo irse al directorio de "Documentos", cd documents y una vez esten ahi, peguen el siguiente codigo:
 
@@ -11,5 +11,5 @@
         mila.figueroa.troncoso@alumnos.sip.cl
         xrayhitts@gmail.com
 
-            Les mando saludos a cada uno de ustedes y les deseo mucho exito
-            gracias por ser grupo, por mas dificultades que hayan esta todo god asi bien chad :3
+Les mando saludos a cada uno de ustedes y les deseo mucho exito
+gracias por ser grupo, por mas dificultades que hayan esta todo god asi bien chad :3
